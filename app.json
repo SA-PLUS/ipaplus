@@ -1,0 +1,18 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "ipaplus",
+  "scripts": {
+    "postdeploy": "bin/stup"
+  },
+  "stack": "heroku-18"
+}
